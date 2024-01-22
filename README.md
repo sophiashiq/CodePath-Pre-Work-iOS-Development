@@ -28,6 +28,7 @@ The following **required** functionality is completed:
 - Sending stickers
 
 App Idea:
+The application I would like to create would be an application that allows individuals to have control of all of their medical records in one place. This application would integrate the patient's medical records from different systems into one location on their phone. In the event that they move, they can have an ease of access to their records and would be able to easily share them with their new provider. Essentialy it would be a universal EMR. Many doctors have to request records such as notes and imaging from physicians that are not in their system. This creates delays in decision making and adequate treatment for a patient. Additionally, the application would be able to extract data such as vital signs for each patient from individual charts and create a graph of height/weight/blood pressure over time for doctors to easily see their patient's progress.
 
 ## Notes
 
